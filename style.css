@@ -28,7 +28,7 @@ body {
 
     .photo-qr {
         width: 100%;
-        height: 375px;
+        height: 335px;
         border-radius: 20px;
         background-image: url('./images/image-qr-code.png');
         background-size: contain;
